@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="Test Eva Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Samantha Bot</b>
 </h1>
 
 
@@ -65,7 +65,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Aadhi000/Test-Eva
+git clone https://github.com/samantha-123/Samantha
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -124,7 +124,7 @@ Fork the repo and edit as per your needs.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/Aadhi000/Test-Eva/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/samantha-123/Samantha/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
